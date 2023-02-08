@@ -1,0 +1,16 @@
+id: I2BD73D69
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:15:38.726290
+last_modified: 2023-02-08 15:15:38.726402
+source_metadata:
+  title: 'PP: Prajñāpāramitāhṛdaya'
+  language: sa
+bases:
+  '3567':
+    base_file: 3567.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
